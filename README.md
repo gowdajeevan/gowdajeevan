@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gowdajeevan
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m interested in java 
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on Reactjs projects
 - 📫 How to reach me <a>gowdajeevan664@gmail.com</a>
 
 <!---
